@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal project<br>👯 I’m looking to collaborate on a note-taking app<br>🤝 I’m looking for help with web speech API<br>🌱 I’m currently learning AI for everyone<br>💬 Ask me about frontend development<br>⚡ Fun fact I am also a freelancer
+🔭 Working on a personal project: predicting clinic wait times with ML.
+<br>
+👯 Keen to collaborate on ReactJS frontend projects, especially UX or data viz focused.
+<br>
+🤝 Seeking help with advanced React state management and frontend performance optimization.
+<br>
+🌱 Currently learning more about UI/UX design.
+<br>
+💬 Ask me about ReactJS, my ML projects (sign-to-speech, sentiment analysis), or problem-solving.
+<br>
+⚡ Fun fact: Tried teaching my turtle Python. Didn't go great.
+<br>
+💼 Actively looking for Frontend Development job opportunities! Email me for leads.
 
 
 ## 🌐 Socials:
