@@ -1,6 +1,4 @@
 # 💫 About Me
-🔭 Working on a personal project: predicting clinic wait times with ML.
-<br>
 👯 Keen to collaborate on ReactJS frontend projects, especially UX or data viz-focused.
 <br>
 🤝 Seeking help with advanced React state management and frontend performance optimisation.
@@ -10,8 +8,6 @@
 💬 Ask me about ReactJS, my ML projects (sign-to-speech, sentiment analysis), or problem-solving.
 <br>
 ⚡ Fun fact: Tried teaching my turtle Python. Didn't go great.
-<br>
-💼 Actively looking for Frontend Development job opportunities! Please email me for leads.
 
 
 ## 🌐 Socials
