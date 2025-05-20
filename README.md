@@ -3,7 +3,7 @@
 <br>
 🤝 Seeking help with advanced React state management and frontend performance optimisation.
 <br>
-🌱 Currently learning more about Artificial Intelligence and MAchine Learning.
+🌱 Currently learning more about Artificial Intelligence and Machine Learning.
 <br>
 💬 Ask me about ReactJS, my ML projects (sign-to-speech, sentiment analysis), or problem-solving.
 <br>
