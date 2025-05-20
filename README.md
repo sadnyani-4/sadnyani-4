@@ -3,11 +3,11 @@
 <br>
 🤝 Seeking help with advanced React state management and frontend performance optimisation.
 <br>
-🌱 Currently learning more about UI/UX design.
+🌱 Currently learning more about Artificial Intelligence and MAchine Learning.
 <br>
 💬 Ask me about ReactJS, my ML projects (sign-to-speech, sentiment analysis), or problem-solving.
 <br>
-⚡ Fun fact: Tried teaching my turtle Python. Didn't go great.
+⚡ Tried teaching my turtle Python. Didn't go great.
 
 
 ## 🌐 Socials
