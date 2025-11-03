@@ -9,7 +9,6 @@
 <br>
 ⚡ Tried teaching my turtle Python. Didn't go great.
 <br>
-🛋️ Contributing to building India's first roommate finding app.
 
 
 ## 🌐 Socials
